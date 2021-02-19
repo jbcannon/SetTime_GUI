@@ -26,7 +26,7 @@ To use this program to set your clock, you must go through the following steps:
 
 #### If using Processing
 
-3. Open `Margay_TimeSet.pde` in your Processing IDE (this file can be acquired by using the green **Clone or Download** button in the upper right of the [GitHub Repo](https://github.com/NorthernWidget/SetTime_GUI) screen. Press this button, then **Download Zip**, then simply extract it using your preferred method)
+3. Open `NW_Logger_TimeSet.pde` in your Processing IDE (this file can be acquired by using the green **Clone or Download** button in the upper right of the [GitHub Repo](https://github.com/NorthernWidget/SetTime_GUI) screen. Press this button, then **Download Zip**, then simply extract it using your preferred method)
 4. Then run `NW_Logger_TimeSet.pde` (this is done by pressing the play button in the upper left of the Processing IDE).
 
 #### If using the executable
